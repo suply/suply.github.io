@@ -3614,8 +3614,8 @@ div::-webkit-scrollbar-track {
 
 #Aurora-Dia--tips-wrapper[data-v-4ca246e5] {
     position: absolute;
-    bottom: 80px;
-    right: -120px;
+    bottom: -40px;
+    right: -200px;
     width: 200px;
     min-height: 60px;
     background: var(--aurora-dia--linear-gradient);
